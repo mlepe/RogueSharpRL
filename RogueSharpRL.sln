@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueSharpRL", "RogueSharpRL\RogueSharpRL.csproj", "{DA291152-C94A-451A-A6C2-A72F3BD53A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA291152-C94A-451A-A6C2-A72F3BD53A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA291152-C94A-451A-A6C2-A72F3BD53A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA291152-C94A-451A-A6C2-A72F3BD53A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA291152-C94A-451A-A6C2-A72F3BD53A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6379166F-FE57-4E7B-AC7F-763E65C456DC}
+	EndGlobalSection
+EndGlobal
